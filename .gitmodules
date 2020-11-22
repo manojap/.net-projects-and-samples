@@ -7,3 +7,9 @@
 [submodule "bookkeeper"]
 	path = bookkeeper
 	url = https://github.com/manojap/bookkeeper
+[submodule "ListPrinterNames"]
+	path = ListPrinterNames
+	url = https://github.com/manojap/ListPrinterNames
+[submodule "MPrinter-Utility"]
+	path = MPrinter-Utility
+	url = https://github.com/manojap/MPrinter-Utility
