@@ -1,2 +1,2 @@
-# .net-projects-and-samples
+# Net projects and samples
 Dot Net Projects in hand
